@@ -1,4 +1,4 @@
 # MouseMasher
 Kill the mice!
 
-Play Here: https://mashewnutz.github.io/MouseMasher/
+Play Here: https://thekiwicoder0.github.io/MouseMasher/
